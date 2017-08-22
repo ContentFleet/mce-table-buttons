@@ -1,0 +1,14 @@
+{
+  "name": "cf-cms-plugins/cf-mce-table-buttons",
+  "authors": [
+    {
+      "name": "Ivan Pallares Trivino",
+      "email": "ipallares@contentfleet.com"
+    }
+  ],
+  "version": "0.1",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
+}
